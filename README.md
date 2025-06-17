@@ -1,0 +1,1 @@
+A simple tool for you to create sales invoices just by typing your relevant details. Because the packaging is built with the standard tkinter library, you're always welcome to customize it and add your own dependencies. 
